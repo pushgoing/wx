@@ -1,0 +1,26 @@
+{
+  "name": "wx",
+  "version": "1.0.0",
+  "description": "wechat pushgoing",
+  "main": "index.js",
+  "dependencies": {
+    "wechat-api": "^1.28.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushgoing/wx.git"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "Marco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushgoing/wx/issues"
+  },
+  "homepage": "https://github.com/pushgoing/wx#readme"
+}
