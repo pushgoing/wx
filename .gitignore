@@ -36,10 +36,7 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-.idea/misc.xml
+.idea
 
-.idea/modules.xml
 
-.idea/workspace.xml
 
-.idea/wx.iml
